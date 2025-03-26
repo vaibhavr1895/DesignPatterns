@@ -7,7 +7,7 @@ public abstract class AbstractVehicle
         this.myWorkshop1 = myWorkshop1;
         this.myWorkshop2 = myWorkshop2;
     }
-
+ 
     public abstract void Manufacture();
 }
 
